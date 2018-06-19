@@ -5,9 +5,6 @@
 
 ### Overview
 
-Add an order name to enter data into MySQL, Node, Express, Handlebars and a homemade ORM (yum!). We followed the MVC design pattern; used Node and MySQL to query and route data in our app, and Handlebars to generate your HTML.
-
-
 * MySql Burger Joint lets users input burger orders.
 
 * When an order name is submitted, the order name will show on the left side of the page.
